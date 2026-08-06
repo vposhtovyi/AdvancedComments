@@ -1,0 +1,62 @@
+{
+  "id": "f4901986-453f-43c2-a617-e8b78bfe7cdc",
+  "name": "Simple Comments Test",
+  "publisher": "Demo",
+  "version": "28.1.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "publisher": "Microsoft",
+      "name": "Library Assert",
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "version": "28.0.0.0"
+    },
+    {
+      "publisher": "Microsoft",
+      "name": "Any",
+      "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "5095f467-0a01-4b99-99d1-9ff1237d286f",
+      "publisher": "Microsoft",
+      "name": "Library Variable Storage",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "publisher": "Microsoft",
+      "name": "Tests-TestLibraries",
+      "version": "28.0.0.0"
+    },
+    {
+      "id": "20c21b7a-8733-4b4f-86b9-6a1985020b73",
+      "name": "Simple Comments",
+      "publisher": "Demo",
+      "version": "28.1.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50130,
+      "to": 58139
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}

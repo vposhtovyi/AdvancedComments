@@ -1,0 +1,39 @@
+{
+  "al.codeAnalyzers": [
+    "${CodeCop}",
+    "${UICop}",
+    "${PerTenantExtensionCop}",
+    "${analyzerFolder}ALCops.ApplicationCop.dll",
+    "${analyzerFolder}ALCops.DocumentationCop.dll",
+    "${analyzerFolder}ALCops.FormattingCop.dll",
+    "${analyzerFolder}ALCops.LinterCop.dll",
+    "${analyzerFolder}ALCops.PlatformCop.dll",
+    "${analyzerFolder}ALCops.TestAutomationCop.dll",
+    "${analyzerFolder}ALCops.Common.dll"
+  ],  
+  "al.backgroundCodeAnalysis": true,
+  "al.enableCodeAnalysis": true,
+  "al.packageCachePath": ".alpackages",
+  "al.ruleSetPath": ".codeAnalysis/Ruleset.json",
+  "alOutline.codeCleanupActions": [
+    "RemoveWithStatements",
+    "RemoveUnusedVariables",
+    "RemoveBeginEnd",
+    "RemoveEmptySections",
+    "RemoveEmptyLines",
+    "AddMissingParentheses",
+    "SortProperties",
+    "SortVariables",
+    "FixKeywordsCase",
+    "FixIdentifiersCase",
+    "ConvertObjectIdsToNames"
+  ],
+  "CRS.AlSubFolderName": "src",
+  "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+  "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+  "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",  
+  "CRS.OnSaveAlFileAction": "Rename",
+  "CRS.RemoveAffixesFromFilename": true,
+  "CRS.RemoveUnderscoreFromFilename": true,
+  "CRS.RemovePrefixFromFilename": true
+}

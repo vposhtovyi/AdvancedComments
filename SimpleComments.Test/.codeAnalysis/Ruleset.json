@@ -1,0 +1,21 @@
+{
+    "name": "Project ruleset",
+    "description": "List of project specific rules",
+    "rules": [
+        {
+            "id":"AA0215",
+            "action":"none",
+            "justification":"The file [File Name] has an incorrect name. The valid name is [Valid File Name]."
+        },
+        {
+            "id":"AA0247",
+            "action":"none",
+            "justification":"Use namespaces to organize your code and isolate it from changes."
+        },
+        {
+            "id":"DC0007",
+            "action":"none",
+            "justification":"Public object [Object Name] must include XML documentation comments."
+        }        
+    ]
+}

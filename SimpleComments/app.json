@@ -1,0 +1,39 @@
+{
+  "id": "20c21b7a-8733-4b4f-86b9-6a1985020b73",
+  "name": "Simple Comments",
+  "publisher": "Demo",
+  "version": "28.1.0.0",
+  "brief": "",
+  "description": "Simple Comments",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./assets/logo.png",
+  "dependencies": [],
+  "internalsVisibleTo": [
+    {
+      "id": "f4901986-453f-43c2-a617-e8b78bfe7cdc",
+      "name": "Simple Comments Test",
+      "publisher": "Demo"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50129
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith", "TranslationFile"
+  ]
+}

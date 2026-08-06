@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="uk-UA" original="Simple Comments.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 139404926 - NamedType 1125700952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Code is empty. Cannot copy comments.</source>
+          <target>Код цілі пустий. Не вдається копіювати коментарі.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SCTHelper - NamedType EmptyTargetCodeErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the comment line.</source>
+          <target>Визначає рядок коментаря.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date of the comment line.</source>
+          <target>Визначає дату рядка коментаря.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 317369864 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date and time when the comment line was last modified.</source>
+          <target>Визначає дату й час останньої зміни рядка коментаря.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 317369864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modified At</source>
+          <target>Дата й час зміни</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 1907234846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user who last modified the comment line.</source>
+          <target>Визначає користувача, який востаннє змінив рядок коментаря.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 1907234846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modified By</source>
+          <target>Змінив</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 301444363 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy comments from the record.</source>
+          <target>Копіює коментарі з запису.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTCopyComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 301444363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Comments</source>
+          <target>Копіювати коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTCopyComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 1628914691 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <target>Переглянути або додати коментарі до запису.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTViewComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 1628914691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTViewComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Comments</source>
+          <target>Копіювати коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - NamedType 848076508" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a source.</source>
+          <target>Виберіть джерело.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - NamedType SelectSourceErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - NamedType 2344815605" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source and target cannot be the same.</source>
+          <target>Джерело та ціль не можуть збігатися.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - NamedType SourceTargetSameErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1888864718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source to copy comments from.</source>
+          <target>Визначає джерело для копіювання коментарів.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control FromSourceNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1888864718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Source</source>
+          <target>Джерело</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control FromSourceNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1522552409 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to delete existing comments in the target before copying.</source>
+          <target>Визначає, чи потрібно видалити наявні коментарі в цілі перед копіюванням.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control ReplaceExisting - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1522552409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replace Existing Comments</source>
+          <target>Замінити наявні коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control ReplaceExisting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 850235202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Specifies the date and time when the comment line was last modified.</source>
+          <target>Визначає дату й час останньої зміни рядка коментаря.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 850235202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Modified At</source>
+          <target>Дата й час зміни</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 1899425988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Specifies the user who last modified the comment line.</source>
+          <target>Визначає користувача, який востаннє змінив рядок коментаря.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 1899425988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Modified By</source>
+          <target>Змінив</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 3440946877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Comments</source>
+          <target>Коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTCommentsGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 301444363 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Copy comments from the record.</source>
+          <target>Копіює коментарі з запису.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTCopyComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 301444363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Copy Comments</source>
+          <target>Копіювати коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTCopyComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 1628914691 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>View or add comments for the record.</source>
+          <target>Переглянути або додати коментарі до запису.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTViewComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 1628914691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Comments</source>
+          <target>Коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTViewComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Control 4011887806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Comments</source>
+          <target>Коментарі</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Control SCTCommentFactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2675854915 - EnumValue 4089855909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2592783624">
+          <source>Service Zone</source>
+          <target>Сервісна зона</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension SCTCommentLineTableNameExt - EnumValue Service Zone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 161370971 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Simple Comment</source>
+          <target>Простий коментар</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet SCTSimpleComment - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

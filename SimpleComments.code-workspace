@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "./SimpleComments"
+		},
+		{
+			"path": "./SimpleComments.Test"
+		}
+	],
+	"settings": {}
+}

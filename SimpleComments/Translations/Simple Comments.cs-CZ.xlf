@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="cs-CZ" original="Simple Comments.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 139404926 - NamedType 1125700952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Code is empty. Cannot copy comments.</source>
+          <target>Kód cíle je prázdný. Komentáře nelze kopírovat.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SCTHelper - NamedType EmptyTargetCodeErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 2790486453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the comment line.</source>
+          <target>Určuje řádek komentáře.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control Comment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date of the comment line.</source>
+          <target>Určuje datum řádku komentáře.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 317369864 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date and time when the comment line was last modified.</source>
+          <target>Určuje datum a čas poslední úpravy řádku komentáře.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 317369864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modified At</source>
+          <target>Upraveno dne</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 1907234846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user who last modified the comment line.</source>
+          <target>Určuje uživatele, který naposledy upravil řádek komentáře.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Control 1907234846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modified By</source>
+          <target>Upravil</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Control ModifiedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 301444363 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy comments from the record.</source>
+          <target>Zkopíruje komentáře ze záznamu.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTCopyComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 301444363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Comments</source>
+          <target>Kopírovat komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTCopyComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 1628914691 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or add comments for the record.</source>
+          <target>Zobrazí nebo přidá komentáře k záznamu.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTViewComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4011887806 - Action 1628914691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target>Komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCommentFactBox - Action SCTViewComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Comments</source>
+          <target>Kopírovat komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - NamedType 848076508" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please select a source.</source>
+          <target>Vyberte zdroj.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - NamedType SelectSourceErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - NamedType 2344815605" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source and target cannot be the same.</source>
+          <target>Zdroj a cíl nesmí být stejné.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - NamedType SourceTargetSameErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1888864718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source to copy comments from.</source>
+          <target>Určuje zdroj, ze kterého se mají kopírovat komentáře.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control FromSourceNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1888864718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Source</source>
+          <target>Ze zdroje</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control FromSourceNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1522552409 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to delete existing comments in the target before copying.</source>
+          <target>Určuje, zda se před kopírováním odstraní existující komentáře v cíli.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control ReplaceExisting - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3941213167 - Control 1522552409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Replace Existing Comments</source>
+          <target>Nahradit existující komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCTCopyCommentDlg - Control ReplaceExisting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 850235202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Specifies the date and time when the comment line was last modified.</source>
+          <target>Určuje datum a čas poslední úpravy řádku komentáře.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 850235202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Modified At</source>
+          <target>Upraveno dne</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 1899425988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Specifies the user who last modified the comment line.</source>
+          <target>Určuje uživatele, který naposledy upravil řádek komentáře.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3933656419 - Control 1899425988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 414434712">
+          <source>Modified By</source>
+          <target>Upravil</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTCommentSheetExt - Control SCTADCModifiedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 3440946877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Comments</source>
+          <target>Komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTCommentsGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 301444363 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Copy comments from the record.</source>
+          <target>Zkopíruje komentáře ze záznamu.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTCopyComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 301444363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Copy Comments</source>
+          <target>Kopírovat komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTCopyComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 1628914691 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>View or add comments for the record.</source>
+          <target>Zobrazí nebo přidá komentáře k záznamu.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTViewComments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Action 1628914691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Comments</source>
+          <target>Komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Action SCTViewComments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1389579503 - Control 4011887806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2489692252">
+          <source>Comments</source>
+          <target>Komentáře</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SCTServiceZonesExt - Control SCTCommentFactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2675854915 - EnumValue 4089855909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2592783624">
+          <source>Service Zone</source>
+          <target>Zóna servisu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension SCTCommentLineTableNameExt - EnumValue Service Zone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 161370971 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Simple Comment</source>
+          <target>Jednoduchý komentář</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet SCTSimpleComment - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
